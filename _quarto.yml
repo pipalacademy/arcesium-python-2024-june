@@ -1,0 +1,35 @@
+project:
+  type: website
+
+website:
+  title: "Python Training at Arcesium - June 2024"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+  sidebar:
+    style: docked
+    search: true
+    contents:
+      - section: The Course
+        contents:
+          - syllabus.qmd
+          - schedule.qmd
+          - lab.qmd
+
+      - section: Live Notes
+        contents:
+          - section: Module 1
+            contents:
+              - 1-1.ipynb
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
