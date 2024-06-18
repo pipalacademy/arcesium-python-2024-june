@@ -1,3 +1,5 @@
 # Lab
 
-coming soon!
+Use your credentials to login here [https://arcesium-lab.pipal.in/](https://arcesium-lab.pipal.in/)
+
+We will use this instance of online jupyter lab for practice during the training

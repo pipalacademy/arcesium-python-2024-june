@@ -1,3 +1,34 @@
 # Schedule
+The course is planned in three modules. One module per month
 
-coming soon!
+| Month    | Date               | Module   | Session                     | Time                | Duration (hrs) |
+|----------|--------------------|----------|-----------------------------|---------------------|----------------|
+| Jun'24   | 18th Jun           | NA       | Course pre-assessment       | 10:30 AM - 11:00 AM | 0.5            |
+|          | 19th Jun           | Module 1 | Virtual Classroom Day 1     | 10:30 AM - 1:30 PM  | 3              |
+|          | 20th Jun           | Module 1 | Virtual Classroom Day 2     | 10:00 AM - 12:00 PM | 2              |
+|          | 21st Jun           | Module 1 | Virtual Classroom Day 3     | 10:00 AM - 12:00 PM | 2              |
+|          | 24th Jun           | Module 1 | Virtual Classroom Day 4     | 10:30 AM - 1:30 PM  | 3              |
+|          | 25th Jun           | Module 1 | Virtual Classroom Day 5     | 10:00 AM - 12:00 PM | 2              |
+|          | 26th - 1st Jul     | Module 1 | module assignment           | Self-paced          | NA             |
+|          | 29th Jun-2nd Jul   | Module1  | Optional Nurturing session  | NA                  | NA             |
+| Jul'24   | 5th Jul            | Module 1 | Assignment Due              | Self-paced          | NA             |
+|          | 10th Jul           | Module 2 | Pre-assessment              | 11:00 AM - 11:30 AM | 0.5            |
+|          | 15th Jul           | Module 2 | Virtual Classroom Day 1     | 10:30 AM - 1:30 PM  | 3              |
+|          | 16th Jul           | Module 2 | Virtual Classroom Day 2     | 10:30 AM - 1:00 PM  | 2.5            |
+|          | 17th Jul           | Module 2 | Virtual Classroom Day 3     | 10:00 AM - 12:30 PM | 2.5            |
+|          | 18th Jul           | Module 2 | Virtual Classroom Day 4     | 10:00 AM - 12:30 PM | 2.5            |
+|          | 19th Jul           | Module 2 | Virtual Classroom Day 5     | 10:00 AM - 12:30 PM | 2.5            |
+|          | 19th-25th Jul      | Module 2 | module assignment           | Self-paced          | NA             |
+|          | 26th Jul - 31st Jul | Module 2 | Optional Nurturing session  | NA                  | NA             |
+| Aug'24   | 8th Aug            | Module 2 | Assignment Due              | Self-paced          | NA             |
+|          | 14th Aug           | Module 3 | Pre-assessment              | 11 AM - 11:30 AM    | 0.5            |
+|          | 19th Aug           | Module 3 | Virtual Classroom Day 1     | 10:30 AM - 1:30 PM  | 3              |
+|          | 20th Aug           | Module 3 | Virtual Classroom Day 2     | 10:00 AM - 12:00 PM | 2              |
+|          | 21st Aug           | Module 3 | Virtual Classroom Day 3     | 10:30 AM - 1:00 PM  | 2.5            |
+|          | 22th Aug           | Module 3 | Virtual Classroom Day 4     | 10:00 AM - 12:00 PM | 2              |
+|          | 23rd Aug           | Module 3 | Virtual Classroom Day 5     | 10:00 AM - 12:00 PM | 2              |
+|          | 23rd - 27th Aug    | Module 3 | module assignment           | Self-paced          | NA             |
+|          | 27th - 30th Aug    | Module 3 | Optional Nurturing session  | NA                  | NA             |
+| Sep'24   | 5th Sep          | Module 3 | Course-end project Due      | Self-paced          | NA             |
+|          | 5th Sep          | Module 3 | Course post-assessment      | 10:30 AM - 11:00 AM | NA             |
+

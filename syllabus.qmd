@@ -1,3 +1,106 @@
 # Syllabus
 
-coming soon!
+Following is outline of course 
+
+## Module 1
+
+### Day 1 
+ - Working with python - basic controlling of environment.
+ - Numeric and Text data
+ - Concept of variable, assignment operator
+ - Collections - lists, tuples.
+ - Some built in functions
+
+### Day 2 
+ - More built in functions
+ - list slicing
+ - Useful methods of strings and lists
+ - Creating custom functions
+ - A function with return and without return
+ 
+### Day 3 
+ - String methods
+ - Method chaining
+ - List methods
+ - Styleguide for writing functions
+ - Namespace and Functions
+ - Scope of Variables
+
+### Day 4 
+ - Functions Arguments
+ - Passing Functions As Arguments
+ - Functions returning functions
+ - lambda expression
+ - Conditions
+ - For loop
+ - While Loop
+ 
+### Day 5
+ - Modules - buit int modules
+ - Writing your own modules
+ - Writing Scripts
+ - Assignments - introduction
+
+## Module II
+
+### Day 1
+ - Iteration patterns
+ - list comprehensions
+
+### Day 2
+ - Reading text files
+ - Writing to text files
+ - String formatting
+
+### Day 3
+ - Why classes?
+ - How to write classes in python
+ - Examples on OOPS
+ 
+### Day 4
+ - Working with Dictionaries
+ - Some examples of using dictionaries
+ 
+### Day 5
+ - Reading/Writing Excel Files with xlsxwriter
+ - Writing in excel , formatting fonts, formulas etc.
+ - Excel tables - add_table,
+ - Collapsed outline and grouping - set_row
+ - Panes - freeze panes
+
+## Module III
+
+### Day1
+ - Operating on tabular data using pandas
+ - Series, Dataframe
+ - Access patterns , selecting
+ - Filtering
+ - Merging, joining, concatenating
+ - groupby
+ - reading/writing datasets using pandas
+
+### Day 2
+ - Using third party libraries (installing, accessing , managing etc.)
+ - Managing virtual environments
+ 
+### Day 3
+ - Fetching data from internet/intranet
+ - With requests module get/post APIs
+ - Operating with json data
+ - json to python data
+ - python to json data
+ - examples
+ 
+### Day 4
+ - Connecting to databases (sqlite3 )
+ - database connectors
+ - connecting and executing queries
+ - Pitfalls in reading/writing to databases.
+ 
+### Day 5
+ - Debugging python programs
+ - Tips for debugging, looking at trace, error messages to find faults
+ - debugging with pdb, sample session
+ - Distributing libraries and packages.
+ - One sample example of creating a python package
+ - standalone script with dependencies library and usable script
